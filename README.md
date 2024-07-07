@@ -16,5 +16,5 @@ Redesign your personal portfolio website to showcase your work and skills in a v
 ![Thumbnail](https://github.com/kirubakaran-saravanan/CODTECH-Task1/assets/93890704/8702e217-fb43-4ef4-918a-913f02a901a5)
 
 ### Links:
-[Figma]: https://www.figma.com/community/file/1390719703531463306/personal-portfolio
-[Behance]: https://www.behance.net/gallery/202500139/Kirubakaran-Portfolio
+[Figma](https://www.figma.com/community/file/1390719703531463306/personal-portfolio)
+[Behance](https://www.behance.net/gallery/202500139/Kirubakaran-Portfolio)
